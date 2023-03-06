@@ -2085,6 +2085,10 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item:not(.lg-zoomable).lg-co
             transform: rotate(45deg);
   }
 
+  .footer__container {
+    padding-bottom: 7.5rem;
+  }
+
   .social__link {
     font-size: 2rem;
   }
@@ -2098,6 +2102,18 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item:not(.lg-zoomable).lg-co
 
   .main-section .decor-main-section {
     min-width: 320px;
+  }
+
+  .technologies__container {
+    padding-bottom: 7.5rem;
+  }
+
+  .portfolio__container {
+    padding-bottom: 7.5rem;
+  }
+
+  .skills__container {
+    padding-bottom: 7.5rem;
   }
 
   .contacts__container {
