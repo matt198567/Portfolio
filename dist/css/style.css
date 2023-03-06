@@ -2093,6 +2093,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item:not(.lg-zoomable).lg-co
     -ms-grid-columns: 1fr;
     grid-template-columns: 1fr;
     row-gap: 1.875rem;
+    padding-bottom: 7.5rem;
   }
 
   .main-section .decor-main-section {
